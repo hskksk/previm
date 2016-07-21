@@ -65,3 +65,18 @@ graph TD;
 </pre>
 
 ![previm](https://raw.github.com/wiki/kannokanno/previm/images/previm-example-mermaid.png)
+
+
+### MathJax
+
+[MathJax](https://www.mathjax.org/)による数式表示に対応しています。
+
+インラインバージョン 
+$
+f(a) = \frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z - a}dz
+$
+
+ブロックバージョン  
+$$
+f(a) = \frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z - a}dz
+$$
